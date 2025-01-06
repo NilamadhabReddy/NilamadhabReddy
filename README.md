@@ -1,6 +1,5 @@
 ## 🌐 Socials:
-p align="center">
-  <a href="mailto:nilamadhabreddy8@gmail.com" style="text-decoration: none; margin: 0 20px; border-radius: 50%; background-color: #ff4081; padding: 10px; display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+<a href="mailto:nilamadhabreddy8@gmail.com" style="text-decoration: none; margin: 0 20px; border-radius: 50%; background-color: #ff4081; padding: 10px; display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease;">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50rem" alt="Gmail" style="border-radius: 50%; transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
   </a>
   <a href="https://www.linkedin.com/in/D.Nilamadhab Reddy/" style="text-decoration: none; margin: 0 20px; border-radius: 50%; background-color: #0077b5; padding: 10px; display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease;">
