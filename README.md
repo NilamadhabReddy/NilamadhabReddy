@@ -1,4 +1,4 @@
-
+<img src="https://icon2.cleanpng.com/lnd/20240807/ua/a4cc08276b11b0ff1588b37e5a58fb.webp">
 ## 🌐 Socials:
 [![Instagram @nilamadhab_01](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilamadhab_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ D.Nilamadhab Reddy) 
 
